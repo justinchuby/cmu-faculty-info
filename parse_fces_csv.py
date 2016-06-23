@@ -28,8 +28,22 @@ def open_csv(path):
 #     return '\n'.join(newLines)
 
 def normalize_fce(data):
-    newData = copy.deepcopy(data)
-    
+    KEY_MAP = {
+        'Resp. Rate %': 'resp_rate',
+        'Course Name': 'name',
+        'Year': 'year',
+        'Responses': 'responses',
+        'Enrollment': 'enrollment',
+        'Questions': 'questions'
+    }
+    newData = []
+    for elem in data:
+        _elem = {}
+        for key, value in elem.items():
+            if key in KEY_MAP:
+                _elem[KEY_MAP[key]] = 
+
+
 
 
 def parse_table(table):
@@ -40,6 +54,9 @@ def parse_table(table):
 
     for row in rows:
         cells = row
+        if 'Year of' in cells[5]:
+            continue
+            
         if len(cells) > 0 and cells[0] == 'Semester':
             # Columns are not consistent in a table - update them when
             # new labels are found.
