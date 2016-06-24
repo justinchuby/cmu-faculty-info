@@ -24,15 +24,6 @@ def open_csv(path):
         reader = csv.reader(csvfile)
         return [row for row in reader]
 
-# def fix_csv(fceCsv):
-#     newLines = []
-#     for line in fceCsv.splitlines():
-#         if line == '':
-#             continue
-#         if line.count(',') == 21:
-#             line = line.replace(',', '/', 3).replace('/', ',', 2)
-#     return '\n'.join(newLines)
-
 
 #
 # @brief      Normalizes the FCE data from it's original format. # #
