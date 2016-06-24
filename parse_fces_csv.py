@@ -1,3 +1,9 @@
+# @author Justin Chu (justinchuby@cmu.edu)
+# @since 2016-06-23
+# 
+# parse_table() adapted from course-api by ScottyLabs. The MIT License, Copyright (c) 2014 ScottyLabs
+
+
 import json
 import csv
 import re
@@ -54,11 +60,21 @@ def normalize_fce(data):
     newData = []
     for doc in data:
         newDoc = {}
+        newDoc['co_taught'] = False
+
         for key, value in doc.items():
             if key in KEY_MAP:
                 newDoc[KEY_MAP[key]] = value
             else:
                 newDoc[key] = value
+        # See if the course is co-taught by this instructor
+        try:
+            if 'co-taught' in newDoc['instructor']:
+                newDoc['instructor'] = newDoc['instructor'].replace('(co-taught)', '').strip()
+                newDoc['co_taught'] = True
+        except KeyError:
+            pass
+
         if 'questions' in newDoc:
             questions = newDoc['questions']
             newQuestions = {}
@@ -106,10 +122,12 @@ def parse_table(table):
             question_start = next((i for i, col in enumerate(columns)
                                    if col[0].isdigit()), len(columns))
         else:
-            # Fix the csv by combining the name.
-            if len(cells) > len(columns):
-                cells[3] = cells[3].strip() + ', ' + cells[4].pop().strip()
-
+            try:
+                if cells[len(columns)] != '':
+                    # Fix the csv by combining the name
+                    cells[3] = cells[3].strip() + ', ' + cells.pop(4).strip()
+            except IndexError:
+                pass
             # Remove empty cells
             cells = cells[:len(columns)]
 
@@ -153,6 +171,13 @@ def get_fce(path):
     data = open_csv(path)
     result = normalize_fce(parse_table(data))
     return result
+
+
+def main(inpath, outpath):
+    data = open_csv(inpath)
+    result = normalize_fce(parse_table(data))
+    output = json.dumps(result, indent = 2)
+    write_file(outpath + '.json', output)
 
 
 def test_fixCsv():
