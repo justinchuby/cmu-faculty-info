@@ -178,19 +178,3 @@ def main(inpath, outpath):
     result = normalize_fce(parse_table(data))
     output = json.dumps(result, indent = 2)
     write_file(outpath + '.json', output)
-
-
-def test_fixCsv():
-    s = """
-Spring,2016,JOSEPH RUDMAN, Dietrich College of Humanities and Social Sciences,73270,WRITING FOR ECONOMST,B,Lect,7,19,37%,5.00,3.71,3.71,3.86,4.14,3.86,3.43,3.43,3.43,3.00
-
-Spring,2016,JOACHIM GROEGER, Dietrich College of Humanities and Social Sciences,73274,ECONOMETRICS I,1,Lect,12,20,60%,10.00,4.33,3.08,3.00,3.17,4.08,2.92,4.58,3.58,2.25
-
-
-Spring,2016,GASPER, J.  (co-taught), Dietrich College of Humanities and Social Sciences,73327,ADVTOPMACROREALBUSCY,W,Lect,4,5,80%,6.50,4.50,4.50,4.50,4.50,4.50,4.50,5.00,4.75,4.75
-
-Spring,2016,KYDLAND, F.  (co-taught), Dietrich College of Humanities and Social Sciences,73327,ADVTOPMACROREALBUSCY,W,Lect,4,5,80%,7.25,4.50,4.50,4.50,4.50,4.50,4.75,5.00,4.75,4.50
-"""
-
-    # print(fixCsv(s))
-
