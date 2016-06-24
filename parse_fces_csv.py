@@ -7,6 +7,7 @@
 import json
 import csv
 import re
+import os
 
 
 def open_file(path):
@@ -160,8 +161,18 @@ def get_fce(path):
     return result
 
 
-def main(inpath, outpath):
-    data = open_csv(inpath)
-    result = normalize_fce(parse_table(data))
-    output = json.dumps(result, indent = 2)
-    write_file(outpath + '.json', output)
+def main(indir, outdir):
+    assert(os.path.isdir(indir) and os.path.isdir(outdir))
+    files = os.listdir(indir)
+    csvList = []
+    for i in range(len(files)):
+        if files[i].endswith('.csv'):
+            csvList.append(files[i])
+    for file in csvList:
+        print(file)
+        inpath = os.path.join(indir, file)
+        outpath = os.path.join(outdir, re.sub('csv$', 'json', file))
+        data = open_csv(inpath)
+        result = normalize_fce(parse_table(data))
+        output = json.dumps(result, indent=2, sort_keys=True)
+        write_file(outpath, output)
