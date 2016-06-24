@@ -50,6 +50,7 @@ def normalize_fce(data):
     }
     newData = []
     for doc in data:
+# TODO: Need None value for non-exist fields?
         newDoc = {}
         newDoc['co_taught'] = False
 
