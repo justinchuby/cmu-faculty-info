@@ -5,9 +5,9 @@
 
 
 import json
-import csv
 import re
 import os
+import cmu_course_api
 
 
 def open_file(path):
@@ -20,10 +20,31 @@ def write_file(path, contents):
         f.write(contents)
 
 
-def open_csv(path):
-    with open(path) as csvfile:
-        reader = csv.reader(csvfile)
-        return [row for row in reader]
+QUESTIONS_MAP = {
+    'hrs per week': 'Q-01',
+    'interest in student learning': 'Q-02',
+    'explain course requirements': 'Q-03',
+    'clear learning goals': 'Q-04',
+    'feedback to students': 'Q-05',
+    'importance of subject': 'Q-06',
+    'explains subject matter': 'Q-07',
+    'show respect for students': 'Q-08',
+    'overall teaching': 'Q-09',
+    'overall course': 'Q-10',
+}
+
+
+def minimize_questions(questions):
+    global QUESTIONS_MAP
+    if questions is not None:
+        for key, question in questions.items():
+            body = question['body']
+            body_lower = body.lower()
+            if body_lower in QUESTIONS_MAP:
+                questions[key]['body'] = QUESTIONS_MAP[body_lower]
+            elif 'hrs per week' in body_lower:
+                questions[key]['body'] = 'Q-01'
+    return questions
 
 
 #
@@ -34,7 +55,7 @@ def open_csv(path):
 #
 # @return     [{}]: Normalize array of data which represents FCE data. #
 #
-def normalize_fce(data):
+def normalize_fce(data, min_questions=True):
     KEY_MAP = {
         'Course ID': 'courseid',
         'Course Name': 'name',
@@ -72,18 +93,25 @@ def normalize_fce(data):
             questions = newDoc['questions']
             newQuestions = {}
             for key, value in questions.items():
-                match = re.search('(\d+):', key)
+                match = re.search('(\d+):(.*)', key)
                 if match:
                     questionNum = match.group(1)
-                    questionBody = re.sub('(\d+):', '', key).strip()
-                newQuestions[questionNum] = {'body': questionBody,
-                                             'value': value}
+                    questionBody = match.group(2).strip()
+                    newQuestions[questionNum] = {'body': questionBody,
+                                                 'value': value}
+                # This drops questions without a leading number.
+            if min_questions:
+                newQuestions = minimize_questions(newQuestions)
             newDoc['questions'] = newQuestions
         newData.append(newDoc)
     return newData
 
 
+# @deprecated Use cmu_course_api.parse_fces() instead. Use when cmu_course_api
+#             is not availible.
+#
 # @function parse_table
+#
 # @brief      Parses FCE data from a parsed CSV file.
 #
 # @param      table  2D list of the CSV file.
@@ -155,13 +183,13 @@ def parse_table(table):
     return result
 
 
-def get_fce(path):
-    data = open_csv(path)
-    result = normalize_fce(parse_table(data))
+def get_fce(path, min_questions=True):
+    data = cmu_course_api.parse_fces(path)
+    result = normalize_fce(data, min_questions)
     return result
 
 
-def main(indir, outdir):
+def main(indir, outdir, index="fce"):
     assert(os.path.isdir(indir) and os.path.isdir(outdir))
     files = os.listdir(indir)
     csvList = []
@@ -171,8 +199,20 @@ def main(indir, outdir):
     for file in csvList:
         print(file)
         inpath = os.path.join(indir, file)
-        outpath = os.path.join(outdir, re.sub('csv$', 'json', file))
-        data = open_csv(inpath)
-        result = normalize_fce(parse_table(data))
-        output = json.dumps(result, indent=2, sort_keys=True)
-        write_file(outpath, output)
+        outpath_json = os.path.join(outdir, re.sub('\.csv$', '.json', file))
+        outpath_es = os.path.join(outdir, re.sub('\.csv$', '_es.json', file))
+        fces = get_fce(inpath, min_questions=True)
+        output_json = json.dumps(fces, indent=2, sort_keys=True)
+        output_es = generate_es_command(fces, index, "fce")
+        write_file(outpath_json, output_json)
+        write_file(outpath_es, output_es)
+
+
+def generate_es_command(fces, index, typ):
+    import hashlib
+    output = ""
+    for doc in fces:
+        ID = hashlib.md5(str(sorted(doc.items())).encode('utf-8')).hexdigest()[:10]
+        output += '{ "index" : { "_index" : "%s", "_type" : "%s", "_id" : "%s" } }\n' % (index, typ, ID)
+        output += str(json.dumps(doc)) + "\n"
+    return output
