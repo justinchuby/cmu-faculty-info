@@ -1,0 +1,6890 @@
+[
+  {
+    "co_taught": false,
+    "courseid": "52-190",
+    "department": "BXA",
+    "enrollment": 21,
+    "instructor": "M. STEPHANIE MURRAY",
+    "name": "BXA SEM I",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.9
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.22
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.9
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.6
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.1
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.3
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.3
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.56
+      }
+    },
+    "resp_rate": "48%",
+    "responses": 10,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-202",
+    "department": "BXA",
+    "enrollment": 4,
+    "instructor": "MARIA ELENA VERSARI",
+    "name": "VIS CUL TOTALITARIAN",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.5
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.5
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 2,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-292",
+    "department": "BXA",
+    "enrollment": 5,
+    "instructor": "CARRIE HAGAN",
+    "name": "BXA LEADERSHIP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.33
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.67
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.33
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "60%",
+    "responses": 3,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-392",
+    "department": "BXA",
+    "enrollment": 17,
+    "instructor": "CARRIE HAGAN",
+    "name": "BXA SEM III",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.1
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.3
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.89
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.9
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.2
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.7
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.8
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.2
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.6
+      }
+    },
+    "resp_rate": "59%",
+    "responses": 10,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-401",
+    "department": "BXA",
+    "enrollment": 15,
+    "instructor": "M. STEPHANIE MURRAY",
+    "name": "BXA SEM IV: CAPSTONE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.8
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.8
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.8
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.8
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.4
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.6
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.2
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.2
+      }
+    },
+    "resp_rate": "33%",
+    "responses": 5,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-401",
+    "department": "BXA",
+    "enrollment": 20,
+    "instructor": "CARRIE HAGAN",
+    "name": "BXA SEM IV: CAPSTONE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 4.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.44
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.78
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.22
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.67
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.89
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.11
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.78
+      }
+    },
+    "resp_rate": "45%",
+    "responses": 9,
+    "section": "B",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-402",
+    "department": "BXA",
+    "enrollment": 29,
+    "instructor": "M. STEPHANIE MURRAY",
+    "name": "BXA SEM V: CAPSTONE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.9
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.6
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.7
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.6
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.8
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.7
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.8
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.8
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.9
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.6
+      }
+    },
+    "resp_rate": "34%",
+    "responses": 10,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "52-430",
+    "department": "BXA",
+    "enrollment": 3,
+    "instructor": "MAHMOOD-REZA VALI",
+    "name": "MUSIC OF IRAN",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 6.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "67%",
+    "responses": 2,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-104",
+    "department": "CMU",
+    "enrollment": 16,
+    "instructor": "TERESA MACGREGOR",
+    "name": "CARNEGIE SKILLS WRKS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.3
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.1
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.6
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.6
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.6
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.4
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.6
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.8
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.9
+      }
+    },
+    "resp_rate": "62%",
+    "responses": 10,
+    "section": "W",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-104",
+    "department": "CMU",
+    "enrollment": 16,
+    "instructor": "ALICIA SALAZ",
+    "name": "CARNEGIE SKILLS WRKS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 3.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.3
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.4
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.4
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.9
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.8
+      }
+    },
+    "resp_rate": "62%",
+    "responses": 10,
+    "section": "WW",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-104",
+    "department": "CMU",
+    "enrollment": 14,
+    "instructor": "TERESA MACGREGOR",
+    "name": "CARNEGIE SKILLS WRKS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.9
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.5
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.6
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.3
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.4
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.4
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.7
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.6
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 10,
+    "section": "X",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-104",
+    "department": "CMU",
+    "enrollment": 16,
+    "instructor": "ALICIA SALAZ",
+    "name": "CARNEGIE SKILLS WRKS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 3.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.18
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.92
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.42
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.25
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.92
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.42
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 12,
+    "section": "XX",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-104",
+    "department": "CMU",
+    "enrollment": 19,
+    "instructor": "ALICIA SALAZ",
+    "name": "CARNEGIE SKILLS WRKS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 3.59
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.94
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.35
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.59
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.53
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.29
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.25
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.53
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.82
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.47
+      }
+    },
+    "resp_rate": "89%",
+    "responses": 17,
+    "section": "Y",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-104",
+    "department": "CMU",
+    "enrollment": 17,
+    "instructor": "ALICIA SALAZ",
+    "name": "CARNEGIE SKILLS WRKS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.42
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.58
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.58
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.92
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 12,
+    "section": "YY",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-152",
+    "department": "CMU",
+    "enrollment": 3,
+    "instructor": "ANGELA LUSK",
+    "name": "THRIVE@CMU",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "67%",
+    "responses": 2,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-190",
+    "department": "CMU",
+    "enrollment": 16,
+    "instructor": "LAUREN AIKEN-SMITH",
+    "name": "MNGNG STRS RSTNG HRM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "12%",
+    "responses": 2,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "99-194",
+    "department": "CMU",
+    "enrollment": 23,
+    "instructor": "SHELL, K.",
+    "name": "RELATIONSHIPS 101",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 4.67
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.88
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.78
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.78
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.67
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.89
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.89
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.78
+      }
+    },
+    "resp_rate": "39%",
+    "responses": 9,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "99-194",
+    "department": "CMU",
+    "enrollment": 23,
+    "instructor": "AIKEN-SMITH, L.",
+    "name": "RELATIONSHIPS 101",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 4.67
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.78
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.89
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.78
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.78
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.89
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.89
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.78
+      }
+    },
+    "resp_rate": "39%",
+    "responses": 9,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-238",
+    "department": "CMU",
+    "enrollment": 34,
+    "instructor": "ROBERT HEARD",
+    "name": "MATERLS ENGY ENVIRON",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.53
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.76
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.29
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.59
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.94
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.53
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.18
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.12
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.41
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.88
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 17,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-241",
+    "department": "CMU",
+    "enrollment": 13,
+    "instructor": "WILLIAM ALBA",
+    "name": "REVLUTNS CIRCULARITY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.9
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.33
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.9
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.9
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.2
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.1
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.6
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.2
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.9
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.3
+      }
+    },
+    "resp_rate": "77%",
+    "responses": 10,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-245",
+    "department": "CMU",
+    "enrollment": 8,
+    "instructor": "WILLIAM ALBA",
+    "name": "ENRGY SCI SOC COMM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 7.25
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 2.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 3.5
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 2.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 2.25
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.25
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.25
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.25
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.25
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 4,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-275",
+    "department": "CMU",
+    "enrollment": 27,
+    "instructor": "CHANTE BOYD",
+    "name": "SUMMER RECHARGE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 6.09
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.3
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.73
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.64
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.64
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.55
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.45
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.64
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.82
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.73
+      }
+    },
+    "resp_rate": "41%",
+    "responses": 11,
+    "section": "S",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-275",
+    "department": "CMU",
+    "enrollment": 10,
+    "instructor": "CHANTE BOYD",
+    "name": "SUMMER RECHARGE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.75
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.5
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.25
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.25
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.25
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.75
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.25
+      }
+    },
+    "resp_rate": "40%",
+    "responses": 4,
+    "section": "T",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "99-352",
+    "department": "CMU",
+    "enrollment": 10,
+    "instructor": "FINGER, S.",
+    "name": "SOFT SKILLS FABRICAT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.43
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.71
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.29
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.57
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.43
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.29
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.57
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.71
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.43
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "99-352",
+    "department": "CMU",
+    "enrollment": 10,
+    "instructor": "LIU, J.",
+    "name": "SOFT SKILLS FABRICAT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.43
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.86
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.43
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.71
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.57
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.29
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.71
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.86
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.57
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "99-352",
+    "department": "CMU",
+    "enrollment": 11,
+    "instructor": "FINGER, S.",
+    "name": "SOFT SKILLS FABRICAT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 3.8
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "45%",
+    "responses": 5,
+    "section": "A4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "99-352",
+    "department": "CMU",
+    "enrollment": 11,
+    "instructor": "LIU, J.",
+    "name": "SOFT SKILLS FABRICAT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 3.8
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "45%",
+    "responses": 5,
+    "section": "A4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-353",
+    "department": "CMU",
+    "enrollment": 17,
+    "instructor": "DAVID TOURETZKY",
+    "name": "SOLIDWORKS LASER CUT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 7.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.45
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.36
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.82
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.45
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.09
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.45
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.36
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.27
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.45
+      }
+    },
+    "resp_rate": "65%",
+    "responses": 11,
+    "section": "A4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-354",
+    "department": "CMU",
+    "enrollment": 8,
+    "instructor": "LAWRENCE HAYHURST",
+    "name": "MACHNE SHP METROLOGY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.8
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 6,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-354",
+    "department": "CMU",
+    "enrollment": 8,
+    "instructor": "LAWRENCE HAYHURST",
+    "name": "MACHNE SHP METROLOGY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 3.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.83
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.83
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.83
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.83
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.83
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.83
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.83
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.83
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 6,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-355",
+    "department": "CMU",
+    "enrollment": 10,
+    "instructor": "GARTH ZEGLIN",
+    "name": "INTRO TO ARDUINO",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.2
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.83
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.83
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.83
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.83
+      }
+    },
+    "resp_rate": "60%",
+    "responses": 6,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-355",
+    "department": "CMU",
+    "enrollment": 11,
+    "instructor": "GARTH ZEGLIN",
+    "name": "INTRO TO ARDUINO",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.86
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.71
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.86
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.43
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.57
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.86
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.71
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.43
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.86
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.57
+      }
+    },
+    "resp_rate": "64%",
+    "responses": 7,
+    "section": "A4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-405",
+    "department": "CMU",
+    "enrollment": 3,
+    "instructor": "AMY BURKERT",
+    "name": "DIRECTED STUDY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "33%",
+    "responses": 1,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-410",
+    "department": "CMU",
+    "enrollment": 16,
+    "instructor": "SELMA LIMAM MANSAR",
+    "name": "INTERNSHIP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 18.17
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.5
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.33
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.33
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.67
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.33
+      }
+    },
+    "resp_rate": "44%",
+    "responses": 7,
+    "section": "W",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-452",
+    "department": "CMU",
+    "enrollment": 3,
+    "instructor": "PEGGY HEIDISH",
+    "name": "LANG & CUL TEACHNING",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.33
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.67
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.67
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "100%",
+    "responses": 3,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-461",
+    "department": "CMU",
+    "enrollment": 3,
+    "instructor": "JUDITH HALLINEN",
+    "name": "TUTOR TEACH & LEAD",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.33
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.33
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.33
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.67
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.33
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.33
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.33
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.33
+      }
+    },
+    "resp_rate": "100%",
+    "responses": 3,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "99-530",
+    "department": "CMU",
+    "enrollment": 9,
+    "instructor": "M SHERNELL SMITH",
+    "name": "SENIOR PREPARTN SEMR",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 4.25
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.75
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.75
+      }
+    },
+    "resp_rate": "44%",
+    "responses": 4,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-300",
+    "department": "III",
+    "enrollment": 16,
+    "instructor": "CHRISTOPHER MCCOMB",
+    "name": "ST: INT PROD CONCEPT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.36
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.82
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.91
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.82
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.91
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "69%",
+    "responses": 11,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-700",
+    "department": "III",
+    "enrollment": 22,
+    "instructor": "DREW DEGENTESH",
+    "name": "ENG DESIGN FUND",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.11
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.84
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 3.95
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.95
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.05
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.95
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.11
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.16
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.89
+      }
+    },
+    "resp_rate": "86%",
+    "responses": 19,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-701",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "TIM CUNNINGHAM",
+    "name": "ID FUNDAMENTALS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.09
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.58
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.09
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.82
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.36
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.09
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.45
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.27
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.45
+      }
+    },
+    "resp_rate": "80%",
+    "responses": 12,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-701",
+    "department": "III",
+    "enrollment": 7,
+    "instructor": "TIM CUNNINGHAM",
+    "name": "ID FUNDAMENTALS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.33
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.67
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "43%",
+    "responses": 3,
+    "section": "B1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-701",
+    "department": "III",
+    "enrollment": 20,
+    "instructor": "MATTHEW BEALE",
+    "name": "ID FUNDAMENTALS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.06
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 2.06
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 2.88
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 2.31
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 2.13
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 2.63
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 2.63
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 3.69
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 2.25
+      }
+    },
+    "resp_rate": "80%",
+    "responses": 16,
+    "section": "C1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-702",
+    "department": "III",
+    "enrollment": 38,
+    "instructor": "DAVID LAMONT",
+    "name": "BUSINESS FUND",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.61
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.86
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.57
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.86
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.82
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.54
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.89
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.82
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.82
+      }
+    },
+    "resp_rate": "74%",
+    "responses": 28,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-703",
+    "department": "III",
+    "enrollment": 44,
+    "instructor": "TIMOTHY FLETCHER",
+    "name": "CAREER PLANNING",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 4.52
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.08
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.16
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.16
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.08
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.28
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.16
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.6
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.0
+      }
+    },
+    "resp_rate": "57%",
+    "responses": 25,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-710",
+    "department": "III",
+    "enrollment": 17,
+    "instructor": "MATTHEW ZYWICA",
+    "name": "VISUAL PROCESSES",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.78
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.78
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.78
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.33
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.78
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.89
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.78
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.78
+      }
+    },
+    "resp_rate": "53%",
+    "responses": 9,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-710",
+    "department": "III",
+    "enrollment": 16,
+    "instructor": "ERIC ANDERSON",
+    "name": "VISUAL PROCESSES",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.7
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.56
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.7
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.2
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.7
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.6
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.9
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.6
+      }
+    },
+    "resp_rate": "62%",
+    "responses": 10,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-712",
+    "department": "III",
+    "enrollment": 43,
+    "instructor": "FRANCINE GEMPERLE",
+    "name": "USER RESEARCH",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.68
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.44
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.44
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.16
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.44
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.08
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.6
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.52
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.68
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.32
+      }
+    },
+    "resp_rate": "58%",
+    "responses": 25,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-713",
+    "department": "III",
+    "enrollment": 31,
+    "instructor": "DARAGH BYRNE",
+    "name": "INTERNET OF THINGS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.55
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.33
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.68
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.32
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.23
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.95
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.38
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.05
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.59
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.14
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 22,
+    "section": "A3",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-714",
+    "department": "III",
+    "enrollment": 17,
+    "instructor": "DARAGH BYRNE",
+    "name": "ST PROGM ONLN PROTYP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 17.42
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.09
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.33
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.91
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.73
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.0
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 12,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-719",
+    "department": "III",
+    "enrollment": 12,
+    "instructor": "DARAGH BYRNE",
+    "name": "IOT ELECTIVE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 15.64
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.55
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.73
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.45
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.55
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.73
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.55
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.27
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.82
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.45
+      }
+    },
+    "resp_rate": "92%",
+    "responses": 11,
+    "section": "A4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-720",
+    "department": "III",
+    "enrollment": 31,
+    "instructor": "JOHN LANKFORD",
+    "name": "PRODUCT & BRAND MGMT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.14
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.52
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.48
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.33
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.52
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.19
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.62
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.57
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.38
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.48
+      }
+    },
+    "resp_rate": "68%",
+    "responses": 21,
+    "section": "A3",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-730",
+    "department": "III",
+    "enrollment": 37,
+    "instructor": "STEPHEN LEONARD",
+    "name": "DFM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 11.14
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.63
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.73
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.53
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.77
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.73
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.8
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.9
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.73
+      }
+    },
+    "resp_rate": "81%",
+    "responses": 30,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-731",
+    "department": "III",
+    "enrollment": 43,
+    "instructor": "STEPHEN LEONARD",
+    "name": "DFE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.32
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.6
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.84
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.76
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.48
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.68
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.68
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.72
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.88
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.64
+      }
+    },
+    "resp_rate": "58%",
+    "responses": 25,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-740",
+    "department": "III",
+    "enrollment": 44,
+    "instructor": "ANDERSON, E.",
+    "name": "IPD METHODS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.91
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.17
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.4
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.14
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.43
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.43
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.4
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.4
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.66
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.34
+      }
+    },
+    "resp_rate": "80%",
+    "responses": 35,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-740",
+    "department": "III",
+    "enrollment": 44,
+    "instructor": "CAGAN, J.",
+    "name": "IPD METHODS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.67
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.4
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.57
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.49
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.54
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.54
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.59
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.57
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.69
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.6
+      }
+    },
+    "resp_rate": "80%",
+    "responses": 35,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-740",
+    "department": "III",
+    "enrollment": 44,
+    "instructor": "BOATWRIGHT, P.",
+    "name": "IPD METHODS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.47
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.2
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.31
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.03
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.29
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.06
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.29
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.37
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.54
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.23
+      }
+    },
+    "resp_rate": "80%",
+    "responses": 35,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-741",
+    "department": "III",
+    "enrollment": 31,
+    "instructor": "ANDERSON, E.",
+    "name": "IPD CAPSTONE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 16.93
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.48
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.59
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.48
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.52
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.52
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.56
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.37
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.52
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.37
+      }
+    },
+    "resp_rate": "87%",
+    "responses": 27,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-741",
+    "department": "III",
+    "enrollment": 31,
+    "instructor": "KARA, L.",
+    "name": "IPD CAPSTONE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 16.93
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.52
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.7
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.52
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.59
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.67
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.7
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.63
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.7
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.59
+      }
+    },
+    "resp_rate": "87%",
+    "responses": 27,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-741",
+    "department": "III",
+    "enrollment": 31,
+    "instructor": "BOATWRIGHT, P.",
+    "name": "IPD CAPSTONE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 16.93
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.52
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.59
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.63
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.59
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.63
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.59
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.56
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.7
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.52
+      }
+    },
+    "resp_rate": "87%",
+    "responses": 27,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-748",
+    "department": "III",
+    "enrollment": 5,
+    "instructor": "TIMOTHY FLETCHER",
+    "name": "SPECIAL TOPICS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 7.4
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.8
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.4
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.6
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.6
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.8
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.8
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.8
+      }
+    },
+    "resp_rate": "100%",
+    "responses": 5,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-750",
+    "department": "III",
+    "enrollment": 9,
+    "instructor": "SHERYL ROOT",
+    "name": "SW PROD DEF",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 20.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.8
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.6
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.6
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.6
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.8
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.8
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.6
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.8
+      }
+    },
+    "resp_rate": "56%",
+    "responses": 5,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-750",
+    "department": "III",
+    "enrollment": 3,
+    "instructor": "SHERYL ROOT",
+    "name": "SW PROD DEF",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 14.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.0
+      }
+    },
+    "resp_rate": "33%",
+    "responses": 1,
+    "section": "R1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-751",
+    "department": "III",
+    "enrollment": 12,
+    "instructor": "ANTHONY WASSERMAN",
+    "name": "REQUIRE ANALYS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.83
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.17
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.17
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.17
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.17
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.2
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.0
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 6,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-751",
+    "department": "III",
+    "enrollment": 3,
+    "instructor": "ANTHONY WASSERMAN",
+    "name": "REQUIRE ANALYS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 2.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 2.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 2.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 2.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 2.0
+      }
+    },
+    "resp_rate": "33%",
+    "responses": 1,
+    "section": "R2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-752",
+    "department": "III",
+    "enrollment": 24,
+    "instructor": "WASSERMAN, A.",
+    "name": "PROD DEF AND VALIDAT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.57
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.13
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.3
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.13
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.7
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.26
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.43
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.64
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.22
+      }
+    },
+    "resp_rate": "96%",
+    "responses": 23,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-752",
+    "department": "III",
+    "enrollment": 24,
+    "instructor": "ROOT, S.",
+    "name": "PROD DEF AND VALIDAT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.41
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.55
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.57
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.59
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.55
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.59
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.55
+      }
+    },
+    "resp_rate": "96%",
+    "responses": 23,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-760",
+    "department": "III",
+    "enrollment": 34,
+    "instructor": "GLADYS MERCIER",
+    "name": "FOUND OF SW MNGT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.23
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.63
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.7
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.77
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.7
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.53
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.7
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.63
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.83
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "88%",
+    "responses": 30,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-761",
+    "department": "III",
+    "enrollment": 19,
+    "instructor": "GLADYS MERCIER",
+    "name": "ELEM OF SW MNGMT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 17.41
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.82
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.29
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.18
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.29
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.29
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.12
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.82
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.59
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.88
+      }
+    },
+    "resp_rate": "89%",
+    "responses": 17,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-761",
+    "department": "III",
+    "enrollment": 3,
+    "instructor": "GLADYS MERCIER",
+    "name": "ELEM OF SW MNGMT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 21.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.5
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.5
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "67%",
+    "responses": 2,
+    "section": "R1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-762",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "ANTHONY WASSERMAN",
+    "name": "SW PROD STRATEGY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.44
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.44
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.44
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.44
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.78
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.33
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.33
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.44
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.33
+      }
+    },
+    "resp_rate": "60%",
+    "responses": 9,
+    "section": "B3",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-763",
+    "department": "III",
+    "enrollment": 14,
+    "instructor": "RAVI THOMAS",
+    "name": "BUS OF SOFTWARE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.13
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.44
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.11
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.89
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.44
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.89
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.78
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.44
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.67
+      }
+    },
+    "resp_rate": "64%",
+    "responses": 9,
+    "section": "B4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-765",
+    "department": "III",
+    "enrollment": 6,
+    "instructor": "RAVI THOMAS",
+    "name": "ENTREPRE FINANCE II",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 14.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "33%",
+    "responses": 2,
+    "section": "A6",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-766",
+    "department": "III",
+    "enrollment": 10,
+    "instructor": "SHERYL ROOT",
+    "name": "AGL MRKT HGH TECH IN",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 11.43
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.71
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.86
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.86
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A6",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-766",
+    "department": "III",
+    "enrollment": 4,
+    "instructor": "SHERYL ROOT",
+    "name": "AGL MRKT HGH TECH IN",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 15.33
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 3,
+    "section": "R6",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-770",
+    "department": "III",
+    "enrollment": 20,
+    "instructor": "SHERYL ROOT",
+    "name": "METRICS SM MNGRS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.63
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.69
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.81
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.81
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.81
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.81
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.81
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.81
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.81
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.81
+      }
+    },
+    "resp_rate": "80%",
+    "responses": 16,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-770",
+    "department": "III",
+    "enrollment": 24,
+    "instructor": "SHERYL ROOT",
+    "name": "METRICS SM MNGRS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.2
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.13
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.63
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.38
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.44
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.63
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.81
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.44
+      }
+    },
+    "resp_rate": "67%",
+    "responses": 16,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-770",
+    "department": "III",
+    "enrollment": 3,
+    "instructor": "SHERYL ROOT",
+    "name": "METRICS SM MNGRS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 21.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "33%",
+    "responses": 1,
+    "section": "R2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-771",
+    "department": "III",
+    "enrollment": 23,
+    "instructor": "RINA LEVY",
+    "name": "PROCESS PROJ MNGT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 11.83
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.23
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 3.31
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.38
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.38
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.46
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.38
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 2.92
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 3.46
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 2.77
+      }
+    },
+    "resp_rate": "57%",
+    "responses": 13,
+    "section": "A3",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-771",
+    "department": "III",
+    "enrollment": 20,
+    "instructor": "SHERYL ROOT",
+    "name": "PROCESS PROJ MNGT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 16.15
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.54
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.77
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.85
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.62
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.85
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.69
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.77
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.85
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.77
+      }
+    },
+    "resp_rate": "65%",
+    "responses": 13,
+    "section": "B3",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-771",
+    "department": "III",
+    "enrollment": 3,
+    "instructor": "SHERYL ROOT",
+    "name": "PROCESS PROJ MNGT",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.33
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.33
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.67
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.67
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "100%",
+    "responses": 3,
+    "section": "R3",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-774",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "XUEYING DAI",
+    "name": "SM-PRODUCT MANAGE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.6
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.7
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.9
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.8
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.7
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.7
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.6
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.6
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.8
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.7
+      }
+    },
+    "resp_rate": "67%",
+    "responses": 10,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-775",
+    "department": "III",
+    "enrollment": 17,
+    "instructor": "ANTHONY WASSERMAN",
+    "name": "FIRST TIME MANAGER",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.23
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.77
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.92
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.92
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.92
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.85
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.85
+      }
+    },
+    "resp_rate": "76%",
+    "responses": 13,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-780",
+    "department": "III",
+    "enrollment": 24,
+    "instructor": "PAOLO MALABUYO",
+    "name": "HCI",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 17.94
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.56
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.72
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.56
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.56
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.44
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.67
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.56
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.56
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 18,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-780",
+    "department": "III",
+    "enrollment": 24,
+    "instructor": "PAOLO MALABUYO",
+    "name": "HCI",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.67
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.68
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.89
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.58
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.84
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.79
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.84
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.95
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.79
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.78
+      }
+    },
+    "resp_rate": "79%",
+    "responses": 19,
+    "section": "B4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-781",
+    "department": "III",
+    "enrollment": 24,
+    "instructor": "KARIMULLA SHAIKH",
+    "name": "DATA ANALYTICS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.88
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 2.56
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 3.56
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.22
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.56
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.22
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 2.56
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.33
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 2.78
+      }
+    },
+    "resp_rate": "38%",
+    "responses": 9,
+    "section": "B4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-783",
+    "department": "III",
+    "enrollment": 12,
+    "instructor": "FANG FANG",
+    "name": "INTRO CLOUD COMP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.11
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.44
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.89
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.89
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.89
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.78
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.78
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.89
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.89
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.56
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 9,
+    "section": "A",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-783",
+    "department": "III",
+    "enrollment": 2,
+    "instructor": "FANG FANG",
+    "name": "INTRO CLOUD COMP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 14.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "100%",
+    "responses": 2,
+    "section": "R",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-784",
+    "department": "III",
+    "enrollment": 14,
+    "instructor": "SUKHJIT SINGH",
+    "name": "JAVA SMARTPHONE DEV",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 18.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.33
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 2.83
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 2.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 2.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 2.83
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 2.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 2.17
+      }
+    },
+    "resp_rate": "43%",
+    "responses": 6,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-786",
+    "department": "III",
+    "enrollment": 25,
+    "instructor": "FANG FANG",
+    "name": "SOFTWARE ENGINEERING",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 11.86
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.77
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.82
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.77
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.73
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.73
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.68
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.73
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.86
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.73
+      }
+    },
+    "resp_rate": "88%",
+    "responses": 22,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-787",
+    "department": "III",
+    "enrollment": 17,
+    "instructor": "KARIMULLA SHAIKH",
+    "name": "ARCHITECT & PROGRAM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 11.42
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.33
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.92
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.08
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.83
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.75
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 12,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-790",
+    "department": "III",
+    "enrollment": 10,
+    "instructor": "WASSERMAN, A.",
+    "name": "SW MNGMT IND STDY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 14.25
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.75
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-790",
+    "department": "III",
+    "enrollment": 10,
+    "instructor": "MERCIER, G.",
+    "name": "SW MNGMT IND STDY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.6
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.2
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.2
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.8
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.4
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.75
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-790",
+    "department": "III",
+    "enrollment": 10,
+    "instructor": "EVANS, J.",
+    "name": "SW MNGMT IND STDY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.75
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.75
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.75
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-790",
+    "department": "III",
+    "enrollment": 10,
+    "instructor": "ROOT, S.",
+    "name": "SW MNGMT IND STDY",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.75
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.75
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.75
+      }
+    },
+    "resp_rate": "70%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-792",
+    "department": "III",
+    "enrollment": 6,
+    "instructor": "MERCIER, G.",
+    "name": "SW MNGMT PRACTICUM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 18.67
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.33
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.33
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.33
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.33
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.33
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 3,
+    "section": "A",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-792",
+    "department": "III",
+    "enrollment": 6,
+    "instructor": "EVANS, J.",
+    "name": "SW MNGMT PRACTICUM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 18.67
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.33
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.33
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.33
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.33
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.33
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.33
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.67
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.33
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 3,
+    "section": "A",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-792",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "WASSERMAN, A.",
+    "name": "SW MNGMT PRACTICUM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.67
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "47%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-792",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "MERCIER, G.",
+    "name": "SW MNGMT PRACTICUM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 12.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.75
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.75
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.75
+      }
+    },
+    "resp_rate": "47%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-792",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "EVANS, J.",
+    "name": "SW MNGMT PRACTICUM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "47%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-792",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "ROOT, S.",
+    "name": "SW MNGMT PRACTICUM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 14.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.5
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.5
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.5
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "47%",
+    "responses": 7,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-793",
+    "department": "III",
+    "enrollment": 26,
+    "instructor": "GLADYS MERCIER",
+    "name": "PRAC TRAIN IN SM",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 14.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.75
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.75
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.75
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.75
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.75
+      }
+    },
+    "resp_rate": "15%",
+    "responses": 4,
+    "section": "A",
+    "semester": "Summer",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-800",
+    "department": "III",
+    "enrollment": 29,
+    "instructor": "EVANS, J.",
+    "name": "COMMERCIAL IP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 7.4
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.4
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.05
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.25
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.5
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.8
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.45
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.7
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.55
+      }
+    },
+    "resp_rate": "69%",
+    "responses": 20,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-800",
+    "department": "III",
+    "enrollment": 29,
+    "instructor": "BREME, O.",
+    "name": "COMMERCIAL IP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 7.53
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.84
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 3.95
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.95
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.95
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.84
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.28
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.11
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.63
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.0
+      }
+    },
+    "resp_rate": "69%",
+    "responses": 20,
+    "section": "A",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-800",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "EVANS, J.",
+    "name": "COMMERCIAL IP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.43
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.43
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.71
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.43
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.43
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.71
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.57
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.86
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.43
+      }
+    },
+    "resp_rate": "53%",
+    "responses": 8,
+    "section": "B",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-800",
+    "department": "III",
+    "enrollment": 15,
+    "instructor": "BREME, O.",
+    "name": "COMMERCIAL IP",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.33
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.83
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.67
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "53%",
+    "responses": 8,
+    "section": "B",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-801",
+    "department": "III",
+    "enrollment": 14,
+    "instructor": "JOHN EVANS",
+    "name": "ENTERPRISE INNOVATIO",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 11.18
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.91
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.82
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.82
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.82
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.82
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.82
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.82
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.91
+      }
+    },
+    "resp_rate": "79%",
+    "responses": 11,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-801",
+    "department": "III",
+    "enrollment": 26,
+    "instructor": "JOHN EVANS",
+    "name": "ENTERPRISE INNOVATIO",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 13.42
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.92
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.92
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.58
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.92
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.83
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.92
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.92
+      }
+    },
+    "resp_rate": "46%",
+    "responses": 12,
+    "section": "B",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-801",
+    "department": "III",
+    "enrollment": 4,
+    "instructor": "JOHN EVANS",
+    "name": "ENTERPRISE INNOVATIO",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 21.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.5
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "50%",
+    "responses": 2,
+    "section": "R",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-802",
+    "department": "III",
+    "enrollment": 17,
+    "instructor": "EVANS, J.",
+    "name": "I&E I",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.17
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.08
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.33
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.17
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 3.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.42
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.17
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 12,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-802",
+    "department": "III",
+    "enrollment": 17,
+    "instructor": "COTTERILL, K.",
+    "name": "I&E I",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.27
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.82
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 3.91
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.91
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.73
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 3.91
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.18
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.09
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 3.91
+      }
+    },
+    "resp_rate": "71%",
+    "responses": 12,
+    "section": "A1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-802",
+    "department": "III",
+    "enrollment": 23,
+    "instructor": "EVANS, J.",
+    "name": "I&E I",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.53
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.61
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.61
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.67
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.78
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.78
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.67
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.89
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "78%",
+    "responses": 18,
+    "section": "B1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-802",
+    "department": "III",
+    "enrollment": 23,
+    "instructor": "COTTERILL, K.",
+    "name": "I&E I",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 8.33
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.71
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.67
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.78
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.78
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.67
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.72
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.78
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "78%",
+    "responses": 18,
+    "section": "B1",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-803",
+    "department": "III",
+    "enrollment": 5,
+    "instructor": "EVANS, J.",
+    "name": "I&E II",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.5
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "40%",
+    "responses": 2,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-803",
+    "department": "III",
+    "enrollment": 5,
+    "instructor": "COTTERILL, K.",
+    "name": "I&E II",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 5.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 5.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 5.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 5.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 5.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 5.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 5.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 5.0
+      }
+    },
+    "resp_rate": "40%",
+    "responses": 2,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-803",
+    "department": "III",
+    "enrollment": 22,
+    "instructor": "EVANS, J.",
+    "name": "I&E II",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.42
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.74
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.63
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.42
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.53
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.79
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.68
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.79
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.74
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.74
+      }
+    },
+    "resp_rate": "86%",
+    "responses": 19,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-803",
+    "department": "III",
+    "enrollment": 22,
+    "instructor": "COTTERILL, K.",
+    "name": "I&E II",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 10.06
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.68
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.53
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.42
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.74
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.53
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.53
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.63
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.74
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.67
+      }
+    },
+    "resp_rate": "86%",
+    "responses": 19,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-804",
+    "department": "III",
+    "enrollment": 33,
+    "instructor": "SHERYL ROOT",
+    "name": "LEADERSHIP CHALLENGE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 7.64
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.5
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.19
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.0
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.54
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.69
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.42
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.77
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.27
+      }
+    },
+    "resp_rate": "79%",
+    "responses": 26,
+    "section": "A4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-804",
+    "department": "III",
+    "enrollment": 18,
+    "instructor": "SHERYL ROOT",
+    "name": "LEADERSHIP CHALLENGE",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 6.25
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.54
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.92
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.69
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.85
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.92
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.85
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.92
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.85
+      }
+    },
+    "resp_rate": "72%",
+    "responses": 13,
+    "section": "B4",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": false,
+    "courseid": "49-805",
+    "department": "III",
+    "enrollment": 16,
+    "instructor": "JOHN EVANS",
+    "name": "SPECIAL TOPICS CIP-2",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 3.67
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.58
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.75
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.92
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 3.92
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.33
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.08
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.67
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.17
+      }
+    },
+    "resp_rate": "75%",
+    "responses": 12,
+    "section": "A",
+    "semester": "Spring",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-806",
+    "department": "III",
+    "enrollment": 7,
+    "instructor": "EVANS, J.",
+    "name": "CONNECTED CLASSROOMS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.0
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.0
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 5.0
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.0
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.33
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.67
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 5.0
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.33
+      }
+    },
+    "resp_rate": "57%",
+    "responses": 4,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-806",
+    "department": "III",
+    "enrollment": 7,
+    "instructor": "BYRNE, D.",
+    "name": "CONNECTED CLASSROOMS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.5
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.75
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.5
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.75
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.5
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.75
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.5
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.75
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.5
+      }
+    },
+    "resp_rate": "57%",
+    "responses": 4,
+    "section": "A2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-806",
+    "department": "III",
+    "enrollment": 13,
+    "instructor": "EVANS, J.",
+    "name": "CONNECTED CLASSROOMS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.8
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.8
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.8
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 4.4
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 4.4
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.4
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.8
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.6
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.8
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.8
+      }
+    },
+    "resp_rate": "38%",
+    "responses": 5,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  },
+  {
+    "co_taught": true,
+    "courseid": "49-806",
+    "department": "III",
+    "enrollment": 13,
+    "instructor": "BYRNE, D.",
+    "name": "CONNECTED CLASSROOMS",
+    "questions": {
+      "1": {
+        "body": "Q-01",
+        "value": 9.5
+      },
+      "10": {
+        "body": "Q-10",
+        "value": 4.2
+      },
+      "2": {
+        "body": "Q-02",
+        "value": 4.2
+      },
+      "3": {
+        "body": "Q-03",
+        "value": 3.8
+      },
+      "4": {
+        "body": "Q-04",
+        "value": 3.8
+      },
+      "5": {
+        "body": "Q-05",
+        "value": 4.0
+      },
+      "6": {
+        "body": "Q-06",
+        "value": 4.0
+      },
+      "7": {
+        "body": "Q-07",
+        "value": 4.0
+      },
+      "8": {
+        "body": "Q-08",
+        "value": 4.2
+      },
+      "9": {
+        "body": "Q-09",
+        "value": 4.2
+      }
+    },
+    "resp_rate": "38%",
+    "responses": 5,
+    "section": "B2",
+    "semester": "Fall",
+    "type": "Lect",
+    "year": 2016
+  }
+]
