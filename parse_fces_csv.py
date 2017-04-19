@@ -26,6 +26,7 @@ QUESTIONS_MAP = {
     'explain course requirements': 'Q-03',
     'clear learning goals': 'Q-04',
     'feedback to students': 'Q-05',
+    'instructor provides feedback to students': 'Q-05',
     'importance of subject': 'Q-06',
     'explains subject matter': 'Q-07',
     'show respect for students': 'Q-08',
@@ -57,18 +58,18 @@ def minimize_questions(questions):
 #
 def normalize_fce(data, min_questions=True):
     KEY_MAP = {
-        'Course ID': 'courseid',
-        'Course Name': 'name',
-        'Dept': 'department',
-        'Enrollment': 'enrollment',
-        'Instructor': 'instructor',
-        'Resp. Rate %': 'resp_rate',
-        'Responses': 'responses',
-        'Section': 'section',
-        'Semester': 'semester',
-        'Type': 'type',
-        'Year': 'year',
-        'Questions': 'questions'
+        'course id': 'courseid',
+        'course name': 'name',
+        'dept': 'department',
+        'enrollment': 'enrollment',
+        'instructor': 'instructor',
+        'resp. rate %': 'resp_rate',
+        'responses': 'responses',
+        'section': 'section',
+        'semester': 'semester',
+        'type': 'type',
+        'year': 'year',
+        'questions': 'questions'
     }
     newData = []
     for doc in data:
@@ -77,10 +78,11 @@ def normalize_fce(data, min_questions=True):
         newDoc['co_taught'] = False
 
         for key, value in doc.items():
-            if key in KEY_MAP:
-                newDoc[KEY_MAP[key]] = value
+            key_lower = key.lower()
+            if key_lower in KEY_MAP:
+                newDoc[KEY_MAP[key_lower]] = value
             else:
-                newDoc[key] = value
+                newDoc[key_lower] = value
         # See if the course is co-taught by this instructor
         try:
             if 'co-taught' in newDoc['instructor']:
@@ -126,7 +128,6 @@ def parse_table(table):
 
     for row in rows:
         cells = row
-
         # Skip cells containing "Year of". That's the summary of the year.
         if cells[0] == '' or 'Year of' in cells[5]:
             continue
@@ -208,11 +209,23 @@ def main(indir, outdir, index="fce"):
         write_file(outpath_es, output_es)
 
 
-def generate_es_command(fces, index, typ):
+def hash_fce_doc(fce_doc):
     import hashlib
+    hashdict = dict()
+    hashdict['instructor'] = fce_doc.get('instructor')
+    hashdict['semester'] = fce_doc.get('semester')
+    hashdict['year'] = fce_doc.get('year')
+    hashdict['courseid'] = fce_doc.get('courseid')
+    hashdict['section'] = fce_doc.get('section')
+    ID = hashlib.md5(str(sorted(hashdict.items())).encode('utf-8')).hexdigest()[:10]
+    return ID
+
+
+def generate_es_command(fces, index, typ):
     output = ""
     for doc in fces:
-        ID = hashlib.md5(str(sorted(doc.items())).encode('utf-8')).hexdigest()[:10]
+        ID = hash_fce_doc(doc)
         output += '{ "index" : { "_index" : "%s", "_type" : "%s", "_id" : "%s" } }\n' % (index, typ, ID)
         output += str(json.dumps(doc)) + "\n"
     return output
+
