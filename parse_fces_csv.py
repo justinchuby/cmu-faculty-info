@@ -48,6 +48,24 @@ def minimize_questions(questions):
     return questions
 
 
+def initialize_fce_dict():
+    output = {
+        'courseid': None,
+        'name': None,
+        'department': None,
+        'enrollment': None,
+        'instructor': None,
+        'co_taught': None,
+        'resp_rate': None,
+        'responses': None,
+        'section': None,
+        'semester': None,
+        'year': None,
+        'type': None,
+        'questions': None
+    }
+    return output
+
 #
 # @brief      Normalizes the FCE data from it's original format. # #
 #
@@ -73,8 +91,7 @@ def normalize_fce(data, min_questions=True):
     }
     newData = []
     for doc in data:
-# TODO: Need None value for non-exist fields?
-        newDoc = {}
+        newDoc = initialize_fce_dict()
         newDoc['co_taught'] = False
 
         for key, value in doc.items():
@@ -88,7 +105,12 @@ def normalize_fce(data, min_questions=True):
             if 'co-taught' in newDoc['instructor']:
                 newDoc['instructor'] = newDoc['instructor'].replace('(co-taught)', '').strip()
                 newDoc['co_taught'] = True
-        except KeyError:
+        except TypeError:
+            pass
+
+        try:
+            newDoc['resp_rate'] = float(newDoc['resp_rate'].strip('%')) / 100.0
+        except:
             pass
 
         if 'questions' in newDoc:
@@ -228,4 +250,3 @@ def generate_es_command(fces, index, typ):
         output += '{ "index" : { "_index" : "%s", "_type" : "%s", "_id" : "%s" } }\n' % (index, typ, ID)
         output += str(json.dumps(doc)) + "\n"
     return output
-
